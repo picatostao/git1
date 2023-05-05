@@ -1,4 +1,9 @@
 
+function sum(op1, op2, op3){
+    const resultado= op1+op2+op3;
+    return resultado;    
+}
+
 function mult(op1, op2){
     const resultado= op1*op2
     return resultado
